@@ -20,7 +20,7 @@
         "2checkout/2checkout-php": "^0.3.1",
         "willdurand/email-reply-parser": "^2.8",
         "instamojo/instamojo-php": "^0.3.0",
-         "ext-gd": "*",
+        "ext-gd": "*",
         "ext-mbstring": "*",
         "ext-imap": "2007f"
     }
