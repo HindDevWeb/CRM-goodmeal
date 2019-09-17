@@ -21,8 +21,8 @@
         "willdurand/email-reply-parser": "^2.8",
         "instamojo/instamojo-php": "^0.3.0",
         "ext-gd": "*",
-        "ext-mbstring": "*",
-        "ext-imap": "2007f"
+        "ext-mbstring": "*"
+       
         
         
     }
